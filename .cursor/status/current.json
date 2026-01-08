@@ -1,0 +1,11 @@
+{
+  "taskId": "demo-sunny-side-bakery",
+  "state": "CLONING",
+  "percent": 0,
+  "step": "Initializing fresh Git repository...",
+  "notes": "Set repository branch to main",
+  "startedAt": "2026-01-08T21:42:27.173Z",
+  "lastHeartbeat": "2026-01-08T21:42:27.393Z",
+  "exitCode": null,
+  "error": null
+}

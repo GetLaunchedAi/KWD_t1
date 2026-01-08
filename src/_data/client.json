@@ -1,0 +1,15 @@
+{
+  "name": "Downs Construction LLC",
+  "email": "downsconstructionllc@gmail.com",
+  "phone": "269-599-4913",
+  "phoneFormatted": "(269)-599-4913",
+  "address": {
+    "lineOne": "First Address Line",
+    "lineTwo": "Second Address Line, If Needed",
+    "city": "Battle Creek",
+    "county": "Mi",
+    "postcode": "80206",
+    "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+  },
+  "domain": "www.website.com"
+}
